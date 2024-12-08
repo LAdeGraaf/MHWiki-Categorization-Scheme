@@ -1,0 +1,1967 @@
+{
+  "vaultName": "MHWiki categorization scheme",
+  "lastExport": 1733695893380,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "---Old Category Structure---.md",
+    "1stGen Games.md",
+    "2ndGen Games.md",
+    "3rdGen Games.md",
+    "4thGen Games.md",
+    "5thGen Games.md",
+    "6thGen Games.md",
+    "6thGen Great Sword Renders.md",
+    "6thGen Item Icons.md",
+    "6thGen Monster Icons.md",
+    "6thGen Monster Renders.md",
+    "10th Anniversary Monster Icons.md",
+    "20th Anniversary Monster Renders.md",
+    "Accel Axe.md",
+    "Achievement Icons.md",
+    "Achievement Icons by Game.md",
+    "Amphibian.md",
+    "Arenas.md",
+    "Armor.md",
+    "Armor Renders.md",
+    "Armor Renders by Game.md",
+    "Audio.md",
+    "Base Sharpness Templates.md",
+    "Bird Wyvern.md",
+    "Book Cover Art.md",
+    "Books.md",
+    "Bow.md",
+    "Brute Wyvern.md",
+    "Carapaceon.md",
+    "Caves.md",
+    "Characters.md",
+    "Charge Blade.md",
+    "Collaboration Monsters.md",
+    "Content.md",
+    "Dangerous First-Class Monsters.md",
+    "Description Templates.md",
+    "Deserts.md",
+    "Dragon Weapons.md",
+    "Dual Blades.md",
+    "Elder Dragon.md",
+    "Elder-Dragon Level Monsters.md",
+    "Endemic Life.md",
+    "Endemic Life by Game.md",
+    "Endemic Life Icons.md",
+    "Endemic Life Icons by Game.md",
+    "Equipment Icons.md",
+    "Equipment Icons by Game.md",
+    "Evolutionary Trees.md",
+    "Extended Play (EP).md",
+    "Extra Tracks.md",
+    "Fanged Beast.md",
+    "Fanged Wyvern.md",
+    "Fire Great Swords.md",
+    "Fire Weapons.md",
+    "Fish.md",
+    "Flagship Monsters.md",
+    "Flying Wyvern.md",
+    "Forests.md",
+    "Frontier Series Soundtracks.md",
+    "Game Box Art.md",
+    "Game Logos & Emblems.md",
+    "Games.md",
+    "Games by Generation.md",
+    "Great Sword.md",
+    "Great Sword Renders.md",
+    "Great Sword Renders by Game.md",
+    "Great Sword Renders by Generation.md",
+    "Great Swords by Attribute.md",
+    "Great Swords by Game.md",
+    "Gunlance.md",
+    "Hammer.md",
+    "Heavy Bowgun.md",
+    "Help.md",
+    "Herbivore.md",
+    "Highlands.md",
+    "Hunting Horn.md",
+    "Ice Weapons.md",
+    "Icon Picker Templates.md",
+    "Icons.md",
+    "Images.md",
+    "Indents.md",
+    "Infobox.md",
+    "Information Templates.md",
+    "Insect Glaive.md",
+    "Invaders.md",
+    "Item Icons.md",
+    "Item Icons by Game.md",
+    "Item Icons by Generation.md",
+    "Items.md",
+    "Items by Game Appearance.md",
+    "Items by Game Introduction.md",
+    "Items Introduced in MHWilds.md",
+    "Jungles.md",
+    "Lance.md",
+    "Large Monster Renders.md",
+    "Large Monsters.md",
+    "Leviathan.md",
+    "Light Bowgun.md",
+    "Locale Screenshots.md",
+    "Locale Screenshots by Game.md",
+    "Locales.md",
+    "Locations.md",
+    "Locations by Game.md",
+    "Long Sword.md",
+    "Lynian.md",
+    "Magnet Spike.md",
+    "Main Series Soundtracks.md",
+    "Material Icons.md",
+    "Medium Bowgun.md",
+    "MH1.md",
+    "MH2.md",
+    "MH3.md",
+    "MH3G.md",
+    "MH3U.md",
+    "MH4.md",
+    "MH4G.md",
+    "MH4U.md",
+    "MHExplore.md",
+    "MHF1.md",
+    "MHF2.md",
+    "MHFrontier.md",
+    "MHFU.md",
+    "MHG.md",
+    "MHGen.md",
+    "MHGenU.md",
+    "MHGii.md",
+    "MHNow.md",
+    "MHOnline.md",
+    "MHOutlanders.md",
+    "MHP1.md",
+    "MHP2.md",
+    "MHP2G.md",
+    "MHP3.md",
+    "MHRise.md",
+    "MHRS.md",
+    "MHST1.md",
+    "MHST2.md",
+    "MHWI.md",
+    "MHWiki.md",
+    "MHWilds.md",
+    "MHWilds Achievement Icons.md",
+    "MHWilds Armor Renders.md",
+    "MHWilds Endemic Life.md",
+    "MHWilds Endemic Life Icons.md",
+    "MHWilds Equipment Icons.md",
+    "MHWilds Fire Great Swords.md",
+    "MHWilds Great Sword Renders.md",
+    "MHWilds Great Swords.md",
+    "MHWilds Great Swords by Attribute.md",
+    "MHWilds Item Icons.md",
+    "MHWilds Items.md",
+    "MHWilds Locale Screenshots.md",
+    "MHWilds Locations.md",
+    "MHWilds Monster Icons.md",
+    "MHWilds Monster Materials.md",
+    "MHWilds Monster Renders.md",
+    "MHWilds Monster Screenshots.md",
+    "MHWilds Monsters.md",
+    "MHWilds Quests.md",
+    "MHWilds Reference Data.md",
+    "MHWilds Screenshots.md",
+    "MHWilds Weapon Renders.md",
+    "MHWilds Weapons.md",
+    "MHWorld.md",
+    "MHX.md",
+    "MHXX.md",
+    "Mobile Series Soundtracks.md",
+    "Monster Ecology Encyclopedia.md",
+    "Monster Icons.md",
+    "Monster Icons by Game.md",
+    "Monster Icons by Generation.md",
+    "Monster Materials.md",
+    "Monster Materials by Game.md",
+    "Monster Renders.md",
+    "Monster Renders by Game.md",
+    "Monster Renders by Generation.md",
+    "Monster Screenshots.md",
+    "Monster Screenshots by Game.md",
+    "Monsters.md",
+    "Monsters by Classification.md",
+    "Monsters by Game Appearance.md",
+    "Monsters by Game Introduction.md",
+    "Monsters by Variations.md",
+    "Monsters introduced in MHWilds.md",
+    "Monstie Renders.md",
+    "Mountains.md",
+    "Navigation Templates.md",
+    "Neopteron.md",
+    "Oceans.md",
+    "Official Soundtracks (OST).md",
+    "Online Hubs.md",
+    "Orchestral Soundtracks.md",
+    "Other Images.md",
+    "Other Series Soundtracks.md",
+    "Paralysis Weapons.md",
+    "Piscine Wyvern.md",
+    "Poison Weapons.md",
+    "Printed Media.md",
+    "Prowler.md",
+    "Rampage Apex Monsters.md",
+    "Reference Data.md",
+    "Reference Data by Game.md",
+    "Remixed Soundtracks.md",
+    "Renders.md",
+    "Ruins.md",
+    "Savannahs.md",
+    "Screenshots.md",
+    "Screenshots by Game.md",
+    "Sharpness Bars.md",
+    "Sleep Weapons.md",
+    "Small Monster Herbivores.md",
+    "Small Monster Renders.md",
+    "Small Monsters.md",
+    "Snake Wyvern.md",
+    "Snowfields.md",
+    "Soundtrack Cover Art.md",
+    "Soundtracks.md",
+    "Soundtracks by Game series.md",
+    "Soundtracks by Type.md",
+    "Special Locales.md",
+    "Species Templates.md",
+    "Stalkers.md",
+    "Stories Series Soundtracks.md",
+    "Swamps.md",
+    "Switch Axe.md",
+    "Sword and Shield.md",
+    "Temnoceran.md",
+    "Templates.md",
+    "Thunder Weapons.md",
+    "Tonfas.md",
+    "UI Elements.md",
+    "Unique Habitats.md",
+    "Unknown.md",
+    "Users.md",
+    "Variant.md",
+    "Video.md",
+    "Villages.md",
+    "Volcanoes.md",
+    "Water Weapons.md",
+    "Weapon Renders.md",
+    "Weapon Renders by Game.md",
+    "Weapon Renders by Weapon Type.md",
+    "Weapons.md",
+    "Weapons by Attribute.md",
+    "Weapons by Game.md",
+    "Weapons by Weapon Type.md",
+    "Wingdrake.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "---Old Category Structure---.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 95424,
+      "exportedPath": "-old-category-structure-.html",
+      "dependencies": []
+    },
+    "1stGen Games.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 23,
+      "exportedPath": "1stgen-games.html",
+      "dependencies": []
+    },
+    "2ndGen Games.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 23,
+      "exportedPath": "2ndgen-games.html",
+      "dependencies": []
+    },
+    "3rdGen Games.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 23,
+      "exportedPath": "3rdgen-games.html",
+      "dependencies": []
+    },
+    "4thGen Games.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 23,
+      "exportedPath": "4thgen-games.html",
+      "dependencies": []
+    },
+    "5thGen Games.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 23,
+      "exportedPath": "5thgen-games.html",
+      "dependencies": []
+    },
+    "6thGen Games.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 23,
+      "exportedPath": "6thgen-games.html",
+      "dependencies": []
+    },
+    "6thGen Great Sword Renders.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 37,
+      "exportedPath": "6thgen-great-sword-renders.html",
+      "dependencies": []
+    },
+    "6thGen Item Icons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 28,
+      "exportedPath": "6thgen-item-icons.html",
+      "dependencies": []
+    },
+    "6thGen Monster Icons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 31,
+      "exportedPath": "6thgen-monster-icons.html",
+      "dependencies": []
+    },
+    "6thGen Monster Renders.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 33,
+      "exportedPath": "6thgen-monster-renders.html",
+      "dependencies": []
+    },
+    "10th Anniversary Monster Icons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 25,
+      "exportedPath": "10th-anniversary-monster-icons.html",
+      "dependencies": []
+    },
+    "20th Anniversary Monster Renders.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 27,
+      "exportedPath": "20th-anniversary-monster-renders.html",
+      "dependencies": []
+    },
+    "Accel Axe.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 26,
+      "exportedPath": "accel-axe.html",
+      "dependencies": []
+    },
+    "Achievement Icons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "achievement-icons.html",
+      "dependencies": []
+    },
+    "Achievement Icons by Game.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 21,
+      "exportedPath": "achievement-icons-by-game.html",
+      "dependencies": []
+    },
+    "Amphibian.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "amphibian.html",
+      "dependencies": []
+    },
+    "Arenas.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 13,
+      "exportedPath": "arenas.html",
+      "dependencies": []
+    },
+    "Armor.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "armor.html",
+      "dependencies": []
+    },
+    "Armor Renders.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "armor-renders.html",
+      "dependencies": []
+    },
+    "Armor Renders by Game.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 17,
+      "exportedPath": "armor-renders-by-game.html",
+      "dependencies": []
+    },
+    "Audio.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 10,
+      "exportedPath": "audio.html",
+      "dependencies": []
+    },
+    "Base Sharpness Templates.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 13,
+      "exportedPath": "base-sharpness-templates.html",
+      "dependencies": []
+    },
+    "Bird Wyvern.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "bird-wyvern.html",
+      "dependencies": []
+    },
+    "Book Cover Art.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 10,
+      "exportedPath": "book-cover-art.html",
+      "dependencies": []
+    },
+    "Books.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 17,
+      "exportedPath": "books.html",
+      "dependencies": []
+    },
+    "Bow.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 26,
+      "exportedPath": "bow.html",
+      "dependencies": []
+    },
+    "Brute Wyvern.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "brute-wyvern.html",
+      "dependencies": []
+    },
+    "Carapaceon.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "carapaceon.html",
+      "dependencies": []
+    },
+    "Caves.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "caves.html",
+      "dependencies": []
+    },
+    "Characters.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "characters.html",
+      "dependencies": []
+    },
+    "Charge Blade.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 26,
+      "exportedPath": "charge-blade.html",
+      "dependencies": []
+    },
+    "Collaboration Monsters.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 18,
+      "exportedPath": "collaboration-monsters.html",
+      "dependencies": []
+    },
+    "Content.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 10,
+      "exportedPath": "content.html",
+      "dependencies": []
+    },
+    "Dangerous First-Class Monsters.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 18,
+      "exportedPath": "dangerous-first-class-monsters.html",
+      "dependencies": []
+    },
+    "Description Templates.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 13,
+      "exportedPath": "description-templates.html",
+      "dependencies": []
+    },
+    "Deserts.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "deserts.html",
+      "dependencies": []
+    },
+    "Dragon Weapons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 24,
+      "exportedPath": "dragon-weapons.html",
+      "dependencies": []
+    },
+    "Dual Blades.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 26,
+      "exportedPath": "dual-blades.html",
+      "dependencies": []
+    },
+    "Elder Dragon.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "elder-dragon.html",
+      "dependencies": []
+    },
+    "Elder-Dragon Level Monsters.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 18,
+      "exportedPath": "elder-dragon-level-monsters.html",
+      "dependencies": []
+    },
+    "Endemic Life.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 12,
+      "exportedPath": "endemic-life.html",
+      "dependencies": []
+    },
+    "Endemic Life by Game.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 16,
+      "exportedPath": "endemic-life-by-game.html",
+      "dependencies": []
+    },
+    "Endemic Life Icons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "endemic-life-icons.html",
+      "dependencies": []
+    },
+    "Endemic Life Icons by Game.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 22,
+      "exportedPath": "endemic-life-icons-by-game.html",
+      "dependencies": []
+    },
+    "Equipment Icons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "equipment-icons.html",
+      "dependencies": []
+    },
+    "Equipment Icons by Game.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 19,
+      "exportedPath": "equipment-icons-by-game.html",
+      "dependencies": []
+    },
+    "Evolutionary Trees.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "evolutionary-trees.html",
+      "dependencies": []
+    },
+    "Extended Play (EP).md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 23,
+      "exportedPath": "extended-play-(ep).html",
+      "dependencies": []
+    },
+    "Extra Tracks.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 23,
+      "exportedPath": "extra-tracks.html",
+      "dependencies": []
+    },
+    "Fanged Beast.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "fanged-beast.html",
+      "dependencies": []
+    },
+    "Fanged Wyvern.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "fanged-wyvern.html",
+      "dependencies": []
+    },
+    "Fire Great Swords.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 29,
+      "exportedPath": "fire-great-swords.html",
+      "dependencies": []
+    },
+    "Fire Weapons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 24,
+      "exportedPath": "fire-weapons.html",
+      "dependencies": []
+    },
+    "Fish.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "fish.html",
+      "dependencies": []
+    },
+    "Flagship Monsters.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 18,
+      "exportedPath": "flagship-monsters.html",
+      "dependencies": []
+    },
+    "Flying Wyvern.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "flying-wyvern.html",
+      "dependencies": []
+    },
+    "Forests.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "forests.html",
+      "dependencies": []
+    },
+    "Frontier Series Soundtracks.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "frontier-series-soundtracks.html",
+      "dependencies": []
+    },
+    "Game Box Art.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 10,
+      "exportedPath": "game-box-art.html",
+      "dependencies": []
+    },
+    "Game Logos & Emblems.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "game-logos-&-emblems.html",
+      "dependencies": []
+    },
+    "Games.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "games.html",
+      "dependencies": []
+    },
+    "Games by Generation.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "games-by-generation.html",
+      "dependencies": []
+    },
+    "Great Sword.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 26,
+      "exportedPath": "great-sword.html",
+      "dependencies": []
+    },
+    "Great Sword Renders.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 33,
+      "exportedPath": "great-sword-renders.html",
+      "dependencies": []
+    },
+    "Great Sword Renders by Game.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 23,
+      "exportedPath": "great-sword-renders-by-game.html",
+      "dependencies": []
+    },
+    "Great Sword Renders by Generation.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 23,
+      "exportedPath": "great-sword-renders-by-generation.html",
+      "dependencies": []
+    },
+    "Great Swords by Attribute.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 15,
+      "exportedPath": "great-swords-by-attribute.html",
+      "dependencies": []
+    },
+    "Great Swords by Game.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 15,
+      "exportedPath": "great-swords-by-game.html",
+      "dependencies": []
+    },
+    "Gunlance.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 26,
+      "exportedPath": "gunlance.html",
+      "dependencies": []
+    },
+    "Hammer.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 26,
+      "exportedPath": "hammer.html",
+      "dependencies": []
+    },
+    "Heavy Bowgun.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 26,
+      "exportedPath": "heavy-bowgun.html",
+      "dependencies": []
+    },
+    "Help.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 10,
+      "exportedPath": "help.html",
+      "dependencies": []
+    },
+    "Herbivore.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "herbivore.html",
+      "dependencies": []
+    },
+    "Highlands.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "highlands.html",
+      "dependencies": []
+    },
+    "Hunting Horn.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 26,
+      "exportedPath": "hunting-horn.html",
+      "dependencies": []
+    },
+    "Ice Weapons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 24,
+      "exportedPath": "ice-weapons.html",
+      "dependencies": []
+    },
+    "Icon Picker Templates.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 13,
+      "exportedPath": "icon-picker-templates.html",
+      "dependencies": []
+    },
+    "Icons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 10,
+      "exportedPath": "icons.html",
+      "dependencies": []
+    },
+    "Images.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 10,
+      "exportedPath": "images.html",
+      "dependencies": []
+    },
+    "Indents.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 16,
+      "exportedPath": "indents.html",
+      "dependencies": []
+    },
+    "Infobox.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 13,
+      "exportedPath": "infobox.html",
+      "dependencies": []
+    },
+    "Information Templates.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 13,
+      "exportedPath": "information-templates.html",
+      "dependencies": []
+    },
+    "Insect Glaive.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 26,
+      "exportedPath": "insect-glaive.html",
+      "dependencies": []
+    },
+    "Invaders.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 18,
+      "exportedPath": "invaders.html",
+      "dependencies": []
+    },
+    "Item Icons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "item-icons.html",
+      "dependencies": []
+    },
+    "Item Icons by Game.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 14,
+      "exportedPath": "item-icons-by-game.html",
+      "dependencies": []
+    },
+    "Item Icons by Generation.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 14,
+      "exportedPath": "item-icons-by-generation.html",
+      "dependencies": []
+    },
+    "Items.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "items.html",
+      "dependencies": []
+    },
+    "Items by Game Appearance.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "items-by-game-appearance.html",
+      "dependencies": []
+    },
+    "Items by Game Introduction.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "items-by-game-introduction.html",
+      "dependencies": []
+    },
+    "Items Introduced in MHWilds.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "items-introduced-in-mhwilds.html",
+      "dependencies": []
+    },
+    "Jungles.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "jungles.html",
+      "dependencies": []
+    },
+    "Lance.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 26,
+      "exportedPath": "lance.html",
+      "dependencies": []
+    },
+    "Large Monster Renders.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 19,
+      "exportedPath": "large-monster-renders.html",
+      "dependencies": []
+    },
+    "Large Monsters.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 12,
+      "exportedPath": "large-monsters.html",
+      "dependencies": []
+    },
+    "Leviathan.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "leviathan.html",
+      "dependencies": []
+    },
+    "Light Bowgun.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 26,
+      "exportedPath": "light-bowgun.html",
+      "dependencies": []
+    },
+    "Locale Screenshots.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 15,
+      "exportedPath": "locale-screenshots.html",
+      "dependencies": []
+    },
+    "Locale Screenshots by Game.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 22,
+      "exportedPath": "locale-screenshots-by-game.html",
+      "dependencies": []
+    },
+    "Locales.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 13,
+      "exportedPath": "locales.html",
+      "dependencies": []
+    },
+    "Locations.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "locations.html",
+      "dependencies": []
+    },
+    "Locations by Game.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 13,
+      "exportedPath": "locations-by-game.html",
+      "dependencies": []
+    },
+    "Long Sword.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 26,
+      "exportedPath": "long-sword.html",
+      "dependencies": []
+    },
+    "Lynian.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "lynian.html",
+      "dependencies": []
+    },
+    "Magnet Spike.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 26,
+      "exportedPath": "magnet-spike.html",
+      "dependencies": []
+    },
+    "Main Series Soundtracks.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "main-series-soundtracks.html",
+      "dependencies": []
+    },
+    "Material Icons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "material-icons.html",
+      "dependencies": []
+    },
+    "Medium Bowgun.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 26,
+      "exportedPath": "medium-bowgun.html",
+      "dependencies": []
+    },
+    "MH1.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mh1.html",
+      "dependencies": []
+    },
+    "MH2.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mh2.html",
+      "dependencies": []
+    },
+    "MH3.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mh3.html",
+      "dependencies": []
+    },
+    "MH3G.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mh3g.html",
+      "dependencies": []
+    },
+    "MH3U.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mh3u.html",
+      "dependencies": []
+    },
+    "MH4.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mh4.html",
+      "dependencies": []
+    },
+    "MH4G.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mh4g.html",
+      "dependencies": []
+    },
+    "MH4U.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mh4u.html",
+      "dependencies": []
+    },
+    "MHExplore.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhexplore.html",
+      "dependencies": []
+    },
+    "MHF1.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhf1.html",
+      "dependencies": []
+    },
+    "MHF2.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhf2.html",
+      "dependencies": []
+    },
+    "MHFrontier.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhfrontier.html",
+      "dependencies": []
+    },
+    "MHFU.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhfu.html",
+      "dependencies": []
+    },
+    "MHG.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhg.html",
+      "dependencies": []
+    },
+    "MHGen.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhgen.html",
+      "dependencies": []
+    },
+    "MHGenU.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhgenu.html",
+      "dependencies": []
+    },
+    "MHGii.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhgii.html",
+      "dependencies": []
+    },
+    "MHNow.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhnow.html",
+      "dependencies": []
+    },
+    "MHOnline.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhonline.html",
+      "dependencies": []
+    },
+    "MHOutlanders.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhoutlanders.html",
+      "dependencies": []
+    },
+    "MHP1.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhp1.html",
+      "dependencies": []
+    },
+    "MHP2.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhp2.html",
+      "dependencies": []
+    },
+    "MHP2G.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhp2g.html",
+      "dependencies": []
+    },
+    "MHP3.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhp3.html",
+      "dependencies": []
+    },
+    "MHRise.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhrise.html",
+      "dependencies": []
+    },
+    "MHRS.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhrs.html",
+      "dependencies": []
+    },
+    "MHST1.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhst1.html",
+      "dependencies": []
+    },
+    "MHST2.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhst2.html",
+      "dependencies": []
+    },
+    "MHWI.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhwi.html",
+      "dependencies": []
+    },
+    "MHWiki.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 645,
+      "exportedPath": "mhwiki.html",
+      "dependencies": []
+    },
+    "MHWilds.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 10,
+      "exportedPath": "mhwilds.html",
+      "dependencies": []
+    },
+    "MHWilds Achievement Icons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 29,
+      "exportedPath": "mhwilds-achievement-icons.html",
+      "dependencies": []
+    },
+    "MHWilds Armor Renders.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 25,
+      "exportedPath": "mhwilds-armor-renders.html",
+      "dependencies": []
+    },
+    "MHWilds Endemic Life.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 24,
+      "exportedPath": "mhwilds-endemic-life.html",
+      "dependencies": []
+    },
+    "MHWilds Endemic Life Icons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "mhwilds-endemic-life-icons.html",
+      "dependencies": []
+    },
+    "MHWilds Equipment Icons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 27,
+      "exportedPath": "mhwilds-equipment-icons.html",
+      "dependencies": []
+    },
+    "MHWilds Fire Great Swords.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 37,
+      "exportedPath": "mhwilds-fire-great-swords.html",
+      "dependencies": []
+    },
+    "MHWilds Great Sword Renders.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 31,
+      "exportedPath": "mhwilds-great-sword-renders.html",
+      "dependencies": []
+    },
+    "MHWilds Great Swords.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 24,
+      "exportedPath": "mhwilds-great-swords.html",
+      "dependencies": []
+    },
+    "MHWilds Great Swords by Attribute.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 24,
+      "exportedPath": "mhwilds-great-swords-by-attribute.html",
+      "dependencies": []
+    },
+    "MHWilds Item Icons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 22,
+      "exportedPath": "mhwilds-item-icons.html",
+      "dependencies": []
+    },
+    "MHWilds Items.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 28,
+      "exportedPath": "mhwilds-items.html",
+      "dependencies": []
+    },
+    "MHWilds Locale Screenshots.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "mhwilds-locale-screenshots.html",
+      "dependencies": []
+    },
+    "MHWilds Locations.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 21,
+      "exportedPath": "mhwilds-locations.html",
+      "dependencies": []
+    },
+    "MHWilds Monster Icons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 25,
+      "exportedPath": "mhwilds-monster-icons.html",
+      "dependencies": []
+    },
+    "MHWilds Monster Materials.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 29,
+      "exportedPath": "mhwilds-monster-materials.html",
+      "dependencies": []
+    },
+    "MHWilds Monster Renders.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 28,
+      "exportedPath": "mhwilds-monster-renders.html",
+      "dependencies": []
+    },
+    "MHWilds Monster Screenshots.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 31,
+      "exportedPath": "mhwilds-monster-screenshots.html",
+      "dependencies": []
+    },
+    "MHWilds Monsters.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 31,
+      "exportedPath": "mhwilds-monsters.html",
+      "dependencies": []
+    },
+    "MHWilds Quests.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "mhwilds-quests.html",
+      "dependencies": []
+    },
+    "MHWilds Reference Data.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 26,
+      "exportedPath": "mhwilds-reference-data.html",
+      "dependencies": []
+    },
+    "MHWilds Screenshots.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 23,
+      "exportedPath": "mhwilds-screenshots.html",
+      "dependencies": []
+    },
+    "MHWilds Weapon Renders.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 26,
+      "exportedPath": "mhwilds-weapon-renders.html",
+      "dependencies": []
+    },
+    "MHWilds Weapons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 19,
+      "exportedPath": "mhwilds-weapons.html",
+      "dependencies": []
+    },
+    "MHWorld.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhworld.html",
+      "dependencies": []
+    },
+    "MHX.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhx.html",
+      "dependencies": []
+    },
+    "MHXX.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "mhxx.html",
+      "dependencies": []
+    },
+    "Mobile Series Soundtracks.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "mobile-series-soundtracks.html",
+      "dependencies": []
+    },
+    "Monster Ecology Encyclopedia.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 10,
+      "exportedPath": "monster-ecology-encyclopedia.html",
+      "dependencies": []
+    },
+    "Monster Icons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "monster-icons.html",
+      "dependencies": []
+    },
+    "Monster Icons by Game.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 17,
+      "exportedPath": "monster-icons-by-game.html",
+      "dependencies": []
+    },
+    "Monster Icons by Generation.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 17,
+      "exportedPath": "monster-icons-by-generation.html",
+      "dependencies": []
+    },
+    "Monster Materials.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "monster-materials.html",
+      "dependencies": []
+    },
+    "Monster Materials by Game.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 21,
+      "exportedPath": "monster-materials-by-game.html",
+      "dependencies": []
+    },
+    "Monster Renders.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "monster-renders.html",
+      "dependencies": []
+    },
+    "Monster Renders by Game.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 19,
+      "exportedPath": "monster-renders-by-game.html",
+      "dependencies": []
+    },
+    "Monster Renders by Generation.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 19,
+      "exportedPath": "monster-renders-by-generation.html",
+      "dependencies": []
+    },
+    "Monster Screenshots.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 15,
+      "exportedPath": "monster-screenshots.html",
+      "dependencies": []
+    },
+    "Monster Screenshots by Game.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 23,
+      "exportedPath": "monster-screenshots-by-game.html",
+      "dependencies": []
+    },
+    "Monsters.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 12,
+      "exportedPath": "monsters.html",
+      "dependencies": []
+    },
+    "Monsters by Classification.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 12,
+      "exportedPath": "monsters-by-classification.html",
+      "dependencies": []
+    },
+    "Monsters by Game Appearance.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 13,
+      "exportedPath": "monsters-by-game-appearance.html",
+      "dependencies": []
+    },
+    "Monsters by Game Introduction.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 12,
+      "exportedPath": "monsters-by-game-introduction.html",
+      "dependencies": []
+    },
+    "Monsters by Variations.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 103,
+      "exportedPath": "monsters-by-variations.html",
+      "dependencies": []
+    },
+    "Monsters introduced in MHWilds.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 33,
+      "exportedPath": "monsters-introduced-in-mhwilds.html",
+      "dependencies": []
+    },
+    "Monstie Renders.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "monstie-renders.html",
+      "dependencies": []
+    },
+    "Mountains.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "mountains.html",
+      "dependencies": []
+    },
+    "Navigation Templates.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 13,
+      "exportedPath": "navigation-templates.html",
+      "dependencies": []
+    },
+    "Neopteron.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "neopteron.html",
+      "dependencies": []
+    },
+    "Oceans.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "oceans.html",
+      "dependencies": []
+    },
+    "Official Soundtracks (OST).md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 23,
+      "exportedPath": "official-soundtracks-(ost).html",
+      "dependencies": []
+    },
+    "Online Hubs.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 13,
+      "exportedPath": "online-hubs.html",
+      "dependencies": []
+    },
+    "Orchestral Soundtracks.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 23,
+      "exportedPath": "orchestral-soundtracks.html",
+      "dependencies": []
+    },
+    "Other Images.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 10,
+      "exportedPath": "other-images.html",
+      "dependencies": []
+    },
+    "Other Series Soundtracks.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "other-series-soundtracks.html",
+      "dependencies": []
+    },
+    "Paralysis Weapons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 24,
+      "exportedPath": "paralysis-weapons.html",
+      "dependencies": []
+    },
+    "Piscine Wyvern.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "piscine-wyvern.html",
+      "dependencies": []
+    },
+    "Poison Weapons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 24,
+      "exportedPath": "poison-weapons.html",
+      "dependencies": []
+    },
+    "Printed Media.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "printed-media.html",
+      "dependencies": []
+    },
+    "Prowler.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 26,
+      "exportedPath": "prowler.html",
+      "dependencies": []
+    },
+    "Rampage Apex Monsters.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 18,
+      "exportedPath": "rampage-apex-monsters.html",
+      "dependencies": []
+    },
+    "Reference Data.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 10,
+      "exportedPath": "reference-data.html",
+      "dependencies": []
+    },
+    "Reference Data by Game.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 18,
+      "exportedPath": "reference-data-by-game.html",
+      "dependencies": []
+    },
+    "Remixed Soundtracks.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 23,
+      "exportedPath": "remixed-soundtracks.html",
+      "dependencies": []
+    },
+    "Renders.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "renders.html",
+      "dependencies": []
+    },
+    "Ruins.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "ruins.html",
+      "dependencies": []
+    },
+    "Savannahs.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "savannahs.html",
+      "dependencies": []
+    },
+    "Screenshots.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 10,
+      "exportedPath": "screenshots.html",
+      "dependencies": []
+    },
+    "Screenshots by Game.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 15,
+      "exportedPath": "screenshots-by-game.html",
+      "dependencies": []
+    },
+    "Sharpness Bars.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 15,
+      "exportedPath": "sharpness-bars.html",
+      "dependencies": []
+    },
+    "Sleep Weapons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 24,
+      "exportedPath": "sleep-weapons.html",
+      "dependencies": []
+    },
+    "Small Monster Herbivores.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 18,
+      "exportedPath": "small-monster-herbivores.html",
+      "dependencies": []
+    },
+    "Small Monster Renders.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 19,
+      "exportedPath": "small-monster-renders.html",
+      "dependencies": []
+    },
+    "Small Monsters.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 12,
+      "exportedPath": "small-monsters.html",
+      "dependencies": []
+    },
+    "Snake Wyvern.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "snake-wyvern.html",
+      "dependencies": []
+    },
+    "Snowfields.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "snowfields.html",
+      "dependencies": []
+    },
+    "Soundtrack Cover Art.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "soundtrack-cover-art.html",
+      "dependencies": []
+    },
+    "Soundtracks.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "soundtracks.html",
+      "dependencies": []
+    },
+    "Soundtracks by Game series.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 15,
+      "exportedPath": "soundtracks-by-game-series.html",
+      "dependencies": []
+    },
+    "Soundtracks by Type.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 15,
+      "exportedPath": "soundtracks-by-type.html",
+      "dependencies": []
+    },
+    "Special Locales.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "special-locales.html",
+      "dependencies": []
+    },
+    "Species Templates.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 13,
+      "exportedPath": "species-templates.html",
+      "dependencies": []
+    },
+    "Stalkers.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 18,
+      "exportedPath": "stalkers.html",
+      "dependencies": []
+    },
+    "Stories Series Soundtracks.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "stories-series-soundtracks.html",
+      "dependencies": []
+    },
+    "Swamps.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "swamps.html",
+      "dependencies": []
+    },
+    "Switch Axe.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 26,
+      "exportedPath": "switch-axe.html",
+      "dependencies": []
+    },
+    "Sword and Shield.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 26,
+      "exportedPath": "sword-and-shield.html",
+      "dependencies": []
+    },
+    "Temnoceran.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "temnoceran.html",
+      "dependencies": []
+    },
+    "Templates.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 10,
+      "exportedPath": "templates.html",
+      "dependencies": []
+    },
+    "Thunder Weapons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 24,
+      "exportedPath": "thunder-weapons.html",
+      "dependencies": []
+    },
+    "Tonfas.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 26,
+      "exportedPath": "tonfas.html",
+      "dependencies": []
+    },
+    "UI Elements.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 9,
+      "exportedPath": "ui-elements.html",
+      "dependencies": []
+    },
+    "Unique Habitats.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "unique-habitats.html",
+      "dependencies": []
+    },
+    "Unknown.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "unknown.html",
+      "dependencies": []
+    },
+    "Users.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 10,
+      "exportedPath": "users.html",
+      "dependencies": []
+    },
+    "Variant.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 0,
+      "exportedPath": "variant.html",
+      "dependencies": []
+    },
+    "Video.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 10,
+      "exportedPath": "video.html",
+      "dependencies": []
+    },
+    "Villages.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 13,
+      "exportedPath": "villages.html",
+      "dependencies": []
+    },
+    "Volcanoes.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "volcanoes.html",
+      "dependencies": []
+    },
+    "Water Weapons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 24,
+      "exportedPath": "water-weapons.html",
+      "dependencies": []
+    },
+    "Weapon Renders.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "weapon-renders.html",
+      "dependencies": []
+    },
+    "Weapon Renders by Game.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 18,
+      "exportedPath": "weapon-renders-by-game.html",
+      "dependencies": []
+    },
+    "Weapon Renders by Weapon Type.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 18,
+      "exportedPath": "weapon-renders-by-weapon-type.html",
+      "dependencies": []
+    },
+    "Weapons.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "weapons.html",
+      "dependencies": []
+    },
+    "Weapons by Attribute.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "weapons-by-attribute.html",
+      "dependencies": []
+    },
+    "Weapons by Game.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 11,
+      "exportedPath": "weapons-by-game.html",
+      "dependencies": []
+    },
+    "Weapons by Weapon Type.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 12,
+      "exportedPath": "weapons-by-weapon-type.html",
+      "dependencies": []
+    },
+    "Wingdrake.md": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 30,
+      "exportedPath": "wingdrake.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 79950,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 16086,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 131018,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1733695893380,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
